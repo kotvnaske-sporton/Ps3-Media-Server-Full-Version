@@ -239,3 +239,6 @@ This repository serves as the official landing page for PS3 Media Server. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PS3 Media Server today!**
+
+---
+**Last updated:** 2026-09-10 19:21:47 UTC
