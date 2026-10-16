@@ -241,4 +241,4 @@ This repository serves as the official landing page for PS3 Media Server. The so
 **Get the most recent version of PS3 Media Server today!**
 
 ---
-**Last updated:** 2026-10-15 23:26:48 UTC
+**Last updated:** 2026-10-16 02:19:43 UTC
